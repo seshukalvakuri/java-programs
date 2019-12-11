@@ -1,0 +1,67 @@
+09/09/2018
+Veggie_Delight
+Footlong
+Multigrain Bread
+E_Monterryjack
+Tomatoes,Red_Onions,E_Jalapenos,Green_Peppers,E_Cucumber
+E_Mayonaise,E_Yellow_Mustard
+2
+Oven_Roasted_Chicken
+Chopped Salad
+Honey Oat Bread
+No
+Tomatoes,Red_Onions,E_Jalapenos,E_Cucumber,Lettuce
+Honey_Mustard,Caeser
+3
+08/25/2018
+Veggie_Delight
+Footlong
+Garlic Braed
+E_Pepperjack
+Red_Onions,E_Pickles,Green_Peppers,E_Cucumber
+E_Mayonaise,E_Ranch
+1
+Turkey_Breast
+Sixinch
+Multigrain Bread
+E_Monterryjack
+Tomatoes,Red_Onions,E_Jalapenos,E_Green_Peppers,Cucumber
+E_Mayonaise,Chipotle_Southwest,Ranch
+2
+Rotisserie_Style_Chicken
+Footlong
+Italian Bread
+E_Provolone
+Lettuce,Red_Onions,E_Jalapenos,E_Pickles,E_Olives
+E_Mayonaise,Chipotle_Southwest,Ranch
+4
+10/04/2018
+Sweet_Onion_Chicken_Teriyaki
+Footlong
+Italian Herbs and Cheese Bread
+E_Pepperjack
+Tomatoes,Red_Onions,E_Pickles,E_Jalapenos,Green_Peppers
+E_Mayonaise
+2
+08/17/2018
+Spicy_Italian
+Sixinch
+Garlic Braed
+E_American
+Red_Onions,E_Pickles,Green_Peppers,E_Jalapenos
+E_Mayonaise,Ceaser,E_Honey_Mustard
+3
+Black_Forest_Ham
+Sixinch
+Multigrain Bread
+E_Mozzerella
+Tomatoes,Red_Onions,E_Jalapenos,E_Green_Peppers
+E_Mayonaise,Ranch,Yellow_Mustard
+2
+Rotisserie_Style_Chicken
+Footlong
+Italian Bread
+E_Mozzerella
+Lettuce,Red_Onions,E_Jalapenos,E_Pickles,Tomatoes,E_Green_Peppers
+E_Mayonaise,Chipotle_Southwest,Ranch
+4
